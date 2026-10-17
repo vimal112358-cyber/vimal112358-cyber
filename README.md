@@ -1,28 +1,27 @@
 ### 👋 Hi, I'm Vimal Amoo Lal
 
-I am a Google Dual-Certified Professional specializing in **Cybersecurity** and **IT Enterprise Support**[cite: 1]. I successfully completed an intensive 6-month technical curriculum in under 30 days via the Tech Valley / Innovista scholarship program[cite: 1]. 
+I am a Google Dual-Certified Professional specializing in **Cybersecurity** and **IT Enterprise Support**. I successfully completed an intensive 6-month technical curriculum in under 30 days via the Tech Valley / Innovista scholarship program. 
 
-Passionate about building secure systems, troubleshooting infrastructure, and automating repetitive tasks, I am actively seeking entry-level technical support or security roles[cite: 1].
+Passionate about building secure systems, troubleshooting infrastructure, and automating repetitive tasks, I am actively seeking entry-level technical support or security roles.
 
 ---
 
 ### 🛠️ Core Technical Skills
-* **IT Infrastructure & Support:** Active Directory (AD), Windows Server Administration, System Troubleshooting, DNS/DHCP, IT Helpdesk Operations[cite: 1].
-* **Cybersecurity Operations:** Linux CLI, SQL Log Forensics, Python 3 Security Scripting, NIST CSF, Network Security, Wireshark Packet Analysis[cite: 1].
+* **IT Infrastructure & Support:** Active Directory (AD), Windows Server Administration, System Troubleshooting, DNS/DHCP, IT Helpdesk Operations.
+* **Cybersecurity Operations:** Linux CLI, SQL Log Forensics, Python 3 Security Scripting, NIST CSF, Network Security, Wireshark Packet Analysis.
 
 ---
 
 ### 📁 Featured Project Portfolio
 Check out my main repository featuring hands-on labs and enterprise simulations:
-* **[Cybersecurity & IT Lab Portfolio](https://github.com/vimal112358-cyber/Cybersecurity-and-IT-Lab-Portfolio):** Contains my NIST CSF incident response playbooks, Python security automation scripts, and database log forensics[cite: 1].
+* **[Cybersecurity & IT Lab Portfolio](https://github.com/vimal112358-cyber/Cybersecurity-and-IT-Lab-Portfolio):** Contains my NIST CSF incident response playbooks, Python security automation scripts, and database log forensics.
 
 ---
 
 ### 📬 Let's Connect
-* **LinkedIn:** [vimal-k-0765783a4](https://linkedin.com/in/vimal-k-0765783a4)[cite: 1]
-* **Email:** vimal.112358@gmail.com[cite: 1]
-* **Location:** Karachi, Pakistan[cite: 1]
-
+* **LinkedIn:** [vimal-k-0765783a4](https://linkedin.com/in/vimal-k-0765783a4)
+* **Email:** vimal.112358@gmail.com
+* **Location:** Karachi, Pakistan
 <!--
 **vimal112358-cyber/vimal112358-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
